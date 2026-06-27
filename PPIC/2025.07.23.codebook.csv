@@ -1,0 +1,610 @@
+variable,variable_label,value,value_label
+id,CaseID,,
+version,Interview Version,,
+zipcode,zipcode,,
+county,In which California county do you live?,1,Alameda
+county,In which California county do you live?,2,Alpine
+county,In which California county do you live?,3,Amador
+county,In which California county do you live?,4,Butte
+county,In which California county do you live?,5,Calaveras
+county,In which California county do you live?,6,Colusa
+county,In which California county do you live?,7,Contra Costa
+county,In which California county do you live?,8,Del Norte
+county,In which California county do you live?,9,El Dorado
+county,In which California county do you live?,10,Fresno
+county,In which California county do you live?,11,Glenn
+county,In which California county do you live?,12,Humboldt
+county,In which California county do you live?,13,Imperial
+county,In which California county do you live?,14,Inyo
+county,In which California county do you live?,15,Kern
+county,In which California county do you live?,16,Kings
+county,In which California county do you live?,17,Lake
+county,In which California county do you live?,18,Lassen
+county,In which California county do you live?,19,Los Angeles
+county,In which California county do you live?,20,Madera
+county,In which California county do you live?,21,Marin
+county,In which California county do you live?,22,Mariposa
+county,In which California county do you live?,23,Mendocino
+county,In which California county do you live?,24,Merced
+county,In which California county do you live?,25,Modoc
+county,In which California county do you live?,26,Mono
+county,In which California county do you live?,27,Monterey
+county,In which California county do you live?,28,Napa
+county,In which California county do you live?,29,Nevada
+county,In which California county do you live?,30,Orange
+county,In which California county do you live?,31,Placer
+county,In which California county do you live?,32,Plumas
+county,In which California county do you live?,33,Riverside
+county,In which California county do you live?,34,Sacramento
+county,In which California county do you live?,35,San Benito
+county,In which California county do you live?,36,San Bernardino
+county,In which California county do you live?,37,San Diego
+county,In which California county do you live?,38,San Francisco
+county,In which California county do you live?,39,San Joaquin
+county,In which California county do you live?,40,San Luis Obispo
+county,In which California county do you live?,41,San Mateo
+county,In which California county do you live?,42,Santa Barbara
+county,In which California county do you live?,43,Santa Clara
+county,In which California county do you live?,44,Santa Cruz
+county,In which California county do you live?,45,Shasta
+county,In which California county do you live?,46,Sierra
+county,In which California county do you live?,47,Siskiyou
+county,In which California county do you live?,48,Solano
+county,In which California county do you live?,49,Sonoma
+county,In which California county do you live?,50,Stanislaus
+county,In which California county do you live?,51,Sutter
+county,In which California county do you live?,52,Tehama
+county,In which California county do you live?,53,Trinity
+county,In which California county do you live?,54,Tulare
+county,In which California county do you live?,55,Tuolumne
+county,In which California county do you live?,56,Ventura
+county,In which California county do you live?,57,Yolo
+county,In which California county do you live?,58,Yuba
+s3,"Are you a parent, stepparent, or legal guardian of any children 18 or under?",1,Yes
+s3,"Are you a parent, stepparent, or legal guardian of any children 18 or under?",2,No
+s3,"Are you a parent, stepparent, or legal guardian of any children 18 or under?",8,Don’t know
+s3,"Are you a parent, stepparent, or legal guardian of any children 18 or under?",9,Prefer not to answer
+q1,Q1. Do you approve or disapprove of the way that Governor Newsom is handling environmental issues in California?,1,approve
+q1,Q1. Do you approve or disapprove of the way that Governor Newsom is handling environmental issues in California?,2,disapprove
+q1,Q1. Do you approve or disapprove of the way that Governor Newsom is handling environmental issues in California?,8,don't know
+q1,Q1. Do you approve or disapprove of the way that Governor Newsom is handling environmental issues in California?,9,prefer not to answer
+q2,Q2. Do you approve or disapprove of the way that the California Legislature is handling environmental issues in California?,1,approve
+q2,Q2. Do you approve or disapprove of the way that the California Legislature is handling environmental issues in California?,2,disapprove
+q2,Q2. Do you approve or disapprove of the way that the California Legislature is handling environmental issues in California?,8,don't know
+q2,Q2. Do you approve or disapprove of the way that the California Legislature is handling environmental issues in California?,9,prefer not to answer
+q3,Q3. How much of the time can you trust the state government to do what is right when it comes to handling environmental issues in California?,1,just about always
+q3,Q3. How much of the time can you trust the state government to do what is right when it comes to handling environmental issues in California?,2,most of the time
+q3,Q3. How much of the time can you trust the state government to do what is right when it comes to handling environmental issues in California?,3,only some of the time
+q3,Q3. How much of the time can you trust the state government to do what is right when it comes to handling environmental issues in California?,4,never
+q3,Q3. How much of the time can you trust the state government to do what is right when it comes to handling environmental issues in California?,8,don't know
+q3,Q3. How much of the time can you trust the state government to do what is right when it comes to handling environmental issues in California?,9,prefer not to answer
+q4,"Q4. Next, what do you think is the most important environmental issue facing California today?",1,"air pollution, vehicle emissions, smog"
+q4,"Q4. Next, what do you think is the most important environmental issue facing California today?",3,"energy, fossil fuels, alternative energy"
+q4,"Q4. Next, what do you think is the most important environmental issue facing California today?",5,"global warming, climate change, greenhouse gases"
+q4,"Q4. Next, what do you think is the most important environmental issue facing California today?",6,"government overregulation, politicians, environmentalists"
+q4,"Q4. Next, what do you think is the most important environmental issue facing California today?",11,"landfills, garbage, sewage, waste, recycling"
+q4,"Q4. Next, what do you think is the most important environmental issue facing California today?",13,"wildfires, lost of forests, forest fires"
+q4,"Q4. Next, what do you think is the most important environmental issue facing California today?",17,pollution in general
+q4,"Q4. Next, what do you think is the most important environmental issue facing California today?",21,"transportation, traffic congestions, transit"
+q4,"Q4. Next, what do you think is the most important environmental issue facing California today?",23,"water pollution of ocean, rivers, lakes, streams, beach pollution"
+q4,"Q4. Next, what do you think is the most important environmental issue facing California today?",24,"water supply, drought, reservoirs"
+q4,"Q4. Next, what do you think is the most important environmental issue facing California today?",26,electric vehicles
+q4,"Q4. Next, what do you think is the most important environmental issue facing California today?",97,other (specify)
+q4,"Q4. Next, what do you think is the most important environmental issue facing California today?",98,don’t know
+q4,"Q4. Next, what do you think is the most important environmental issue facing California today?",99,prefer not to answer
+q5,Q5. Which level of government do you trust the most when it comes to handling environmental issues in California?,1,federal government
+q5,Q5. Which level of government do you trust the most when it comes to handling environmental issues in California?,2,state government
+q5,Q5. Which level of government do you trust the most when it comes to handling environmental issues in California?,3,local government
+q5,Q5. Which level of government do you trust the most when it comes to handling environmental issues in California?,4,all of the above
+q5,Q5. Which level of government do you trust the most when it comes to handling environmental issues in California?,5,none
+q5,Q5. Which level of government do you trust the most when it comes to handling environmental issues in California?,8,don’t know
+q5,Q5. Which level of government do you trust the most when it comes to handling environmental issues in California?,9,prefer not to answer
+q6,"Q6. Which of these statements comes closer to your view, even if neither is exactly right?",1,stricter environmental laws and regulations in California cost too many jobs and hurt the economy
+q6,"Q6. Which of these statements comes closer to your view, even if neither is exactly right?",2,stricter environmental laws and regulations in California are worth the cost
+q6,"Q6. Which of these statements comes closer to your view, even if neither is exactly right?",8,don't know
+q6,"Q6. Which of these statements comes closer to your view, even if neither is exactly right?",9,prefer not to answer
+q7,"Q7. Would you say that the supply of water is a big problem, somewhat of a problem, or not much of a problem in your part of California?",1,big problem
+q7,"Q7. Would you say that the supply of water is a big problem, somewhat of a problem, or not much of a problem in your part of California?",2,somewhat of a problem
+q7,"Q7. Would you say that the supply of water is a big problem, somewhat of a problem, or not much of a problem in your part of California?",3,not much of a problem
+q7,"Q7. Would you say that the supply of water is a big problem, somewhat of a problem, or not much of a problem in your part of California?",8,don’t know
+q7,"Q7. Would you say that the supply of water is a big problem, somewhat of a problem, or not much of a problem in your part of California?",9,prefer not to answer
+q8,"Q8. Do you think that pollution of drinking water is a more serious health threat in lower-income areas than other areas in your part of California, or not?",1,yes
+q8,"Q8. Do you think that pollution of drinking water is a more serious health threat in lower-income areas than other areas in your part of California, or not?",2,no
+q8,"Q8. Do you think that pollution of drinking water is a more serious health threat in lower-income areas than other areas in your part of California, or not?",8,don’t know
+q8,"Q8. Do you think that pollution of drinking water is a more serious health threat in lower-income areas than other areas in your part of California, or not?",9,prefer not to answer
+q9,"Q9. Next, would you say that air pollution is a big problem, somewhat of a problem, or not much of a problem in your part of California?",1,big problem
+q9,"Q9. Next, would you say that air pollution is a big problem, somewhat of a problem, or not much of a problem in your part of California?",2,somewhat of a problem
+q9,"Q9. Next, would you say that air pollution is a big problem, somewhat of a problem, or not much of a problem in your part of California?",3,not much of a problem
+q9,"Q9. Next, would you say that air pollution is a big problem, somewhat of a problem, or not much of a problem in your part of California?",8,don’t know
+q9,"Q9. Next, would you say that air pollution is a big problem, somewhat of a problem, or not much of a problem in your part of California?",9,prefer not to answer
+q10,"Q10. Do you think that air pollution is a more serious health threat in lower-income areas than other areas in your part of California, or not?",1,yes
+q10,"Q10. Do you think that air pollution is a more serious health threat in lower-income areas than other areas in your part of California, or not?",2,no
+q10,"Q10. Do you think that air pollution is a more serious health threat in lower-income areas than other areas in your part of California, or not?",8,don’t know
+q10,"Q10. Do you think that air pollution is a more serious health threat in lower-income areas than other areas in your part of California, or not?",9,prefer not to answer
+q11,"Q11. Next, how much of a problem is the threat of wildfires in your part of California? Is it a big problem, somewhat of a problem, or not much of a problem?",1,big problem
+q11,"Q11. Next, how much of a problem is the threat of wildfires in your part of California? Is it a big problem, somewhat of a problem, or not much of a problem?",2,somewhat of a problem
+q11,"Q11. Next, how much of a problem is the threat of wildfires in your part of California? Is it a big problem, somewhat of a problem, or not much of a problem?",3,not much of a problem
+q11,"Q11. Next, how much of a problem is the threat of wildfires in your part of California? Is it a big problem, somewhat of a problem, or not much of a problem?",8,don’t know
+q11,"Q11. Next, how much of a problem is the threat of wildfires in your part of California? Is it a big problem, somewhat of a problem, or not much of a problem?",9,prefer not to answer
+q12,Q12. How serious is the threat of wildfires in your part of California to your personal and economic wellbeing?,1,very serious
+q12,Q12. How serious is the threat of wildfires in your part of California to your personal and economic wellbeing?,2,somewhat serious
+q12,Q12. How serious is the threat of wildfires in your part of California to your personal and economic wellbeing?,3,not too serious
+q12,Q12. How serious is the threat of wildfires in your part of California to your personal and economic wellbeing?,8,don’t know
+q12,Q12. How serious is the threat of wildfires in your part of California to your personal and economic wellbeing?,9,prefer not to answer
+q13,"Q13. Overall, do you think that the state and local governments are doing too much, the right amount, or not enough to address wildfires, including prevention and recovery?",1,too much
+q13,"Q13. Overall, do you think that the state and local governments are doing too much, the right amount, or not enough to address wildfires, including prevention and recovery?",2,the right amount
+q13,"Q13. Overall, do you think that the state and local governments are doing too much, the right amount, or not enough to address wildfires, including prevention and recovery?",3,not enough
+q13,"Q13. Overall, do you think that the state and local governments are doing too much, the right amount, or not enough to address wildfires, including prevention and recovery?",8,don’t know
+q13,"Q13. Overall, do you think that the state and local governments are doing too much, the right amount, or not enough to address wildfires, including prevention and recovery?",9,prefer not to answer
+q14,Q14. How much confidence do you have in the government in terms of its readiness to respond to wildfires in your part of California?,1,a great deal
+q14,Q14. How much confidence do you have in the government in terms of its readiness to respond to wildfires in your part of California?,2,only some
+q14,Q14. How much confidence do you have in the government in terms of its readiness to respond to wildfires in your part of California?,3,hardly any
+q14,Q14. How much confidence do you have in the government in terms of its readiness to respond to wildfires in your part of California?,4,none
+q14,Q14. How much confidence do you have in the government in terms of its readiness to respond to wildfires in your part of California?,8,don’t know
+q14,Q14. How much confidence do you have in the government in terms of its readiness to respond to wildfires in your part of California?,9,prefer not to answer
+q15,Q15.How concerned are you about rising electricity bills because of utilities’ responsibilities for wildfire damage costs?,1,very concerned
+q15,Q15.How concerned are you about rising electricity bills because of utilities’ responsibilities for wildfire damage costs?,2,somewhat concerned
+q15,Q15.How concerned are you about rising electricity bills because of utilities’ responsibilities for wildfire damage costs?,3,not too concerned
+q15,Q15.How concerned are you about rising electricity bills because of utilities’ responsibilities for wildfire damage costs?,4,not at all concerned
+q15,Q15.How concerned are you about rising electricity bills because of utilities’ responsibilities for wildfire damage costs?,8,don’t know
+q15,Q15.How concerned are you about rising electricity bills because of utilities’ responsibilities for wildfire damage costs?,9,prefer not to answer
+q16,"Q16. Next, would you say that extreme weather events are a big problem, somewhat of a problem, or not much of a problem in your part of California?",1,big problem
+q16,"Q16. Next, would you say that extreme weather events are a big problem, somewhat of a problem, or not much of a problem in your part of California?",2,somewhat of a problem
+q16,"Q16. Next, would you say that extreme weather events are a big problem, somewhat of a problem, or not much of a problem in your part of California?",3,not much of a problem
+q16,"Q16. Next, would you say that extreme weather events are a big problem, somewhat of a problem, or not much of a problem in your part of California?",8,don’t know
+q16,"Q16. Next, would you say that extreme weather events are a big problem, somewhat of a problem, or not much of a problem in your part of California?",9,prefer not to answer
+q17,Q17. How much confidence do you have in the government in terms of its readiness to respond to extreme weather events in your part of California?,1,a great deal
+q17,Q17. How much confidence do you have in the government in terms of its readiness to respond to extreme weather events in your part of California?,2,only some
+q17,Q17. How much confidence do you have in the government in terms of its readiness to respond to extreme weather events in your part of California?,3,hardly any
+q17,Q17. How much confidence do you have in the government in terms of its readiness to respond to extreme weather events in your part of California?,4,none
+q17,Q17. How much confidence do you have in the government in terms of its readiness to respond to extreme weather events in your part of California?,8,don’t know
+q17,Q17. How much confidence do you have in the government in terms of its readiness to respond to extreme weather events in your part of California?,9,prefer not to answer
+q18,"Q18. How worried are you that you and the members of your household will experience personal injury, property damage, or a major disruption of your routine if there is a disaster such as a major earthquake, wildfire, or flood?",1,very worried
+q18,"Q18. How worried are you that you and the members of your household will experience personal injury, property damage, or a major disruption of your routine if there is a disaster such as a major earthquake, wildfire, or flood?",2,somewhat worried
+q18,"Q18. How worried are you that you and the members of your household will experience personal injury, property damage, or a major disruption of your routine if there is a disaster such as a major earthquake, wildfire, or flood?",3,not too  worried
+q18,"Q18. How worried are you that you and the members of your household will experience personal injury, property damage, or a major disruption of your routine if there is a disaster such as a major earthquake, wildfire, or flood?",4,not at all worried
+q18,"Q18. How worried are you that you and the members of your household will experience personal injury, property damage, or a major disruption of your routine if there is a disaster such as a major earthquake, wildfire, or flood?",8,don’t know
+q18,"Q18. How worried are you that you and the members of your household will experience personal injury, property damage, or a major disruption of your routine if there is a disaster such as a major earthquake, wildfire, or flood?",9,prefer not to answer
+q19,Q19. Have you or someone you know experienced a loss or damage of a home or business due to wildfires or extreme weather? (If yes: is that person you or someone you know?) (comb),1,"Yes, me"
+q19,Q19. Have you or someone you know experienced a loss or damage of a home or business due to wildfires or extreme weather? (If yes: is that person you or someone you know?) (comb),2,"Yes, someone I know"
+q19,Q19. Have you or someone you know experienced a loss or damage of a home or business due to wildfires or extreme weather? (If yes: is that person you or someone you know?) (comb),3,"Yes, other"
+q19,Q19. Have you or someone you know experienced a loss or damage of a home or business due to wildfires or extreme weather? (If yes: is that person you or someone you know?) (comb),4,No
+q19,Q19. Have you or someone you know experienced a loss or damage of a home or business due to wildfires or extreme weather? (If yes: is that person you or someone you know?) (comb),8,Don't know
+q19,Q19. Have you or someone you know experienced a loss or damage of a home or business due to wildfires or extreme weather? (If yes: is that person you or someone you know?) (comb),9,Refuse
+q20,"Q20. Onto another topic,  How much should climate adaptation to extreme weather, such as flooding, heatwaves and wildfires, be considered when planning where to build new affordable units?",1,a great deal
+q20,"Q20. Onto another topic,  How much should climate adaptation to extreme weather, such as flooding, heatwaves and wildfires, be considered when planning where to build new affordable units?",2,a fair amount
+q20,"Q20. Onto another topic,  How much should climate adaptation to extreme weather, such as flooding, heatwaves and wildfires, be considered when planning where to build new affordable units?",3,only a little
+q20,"Q20. Onto another topic,  How much should climate adaptation to extreme weather, such as flooding, heatwaves and wildfires, be considered when planning where to build new affordable units?",4,not at all
+q20,"Q20. Onto another topic,  How much should climate adaptation to extreme weather, such as flooding, heatwaves and wildfires, be considered when planning where to build new affordable units?",8,don't know
+q20,"Q20. Onto another topic,  How much should climate adaptation to extreme weather, such as flooding, heatwaves and wildfires, be considered when planning where to build new affordable units?",9,prefer not to answer
+q21,Q21. How concerned are you that home insurance will become more expensive due to climate change risks?,1,very concerned
+q21,Q21. How concerned are you that home insurance will become more expensive due to climate change risks?,2,somewhat concerned
+q21,Q21. How concerned are you that home insurance will become more expensive due to climate change risks?,3,not too concerned
+q21,Q21. How concerned are you that home insurance will become more expensive due to climate change risks?,4,not at all concerned
+q21,Q21. How concerned are you that home insurance will become more expensive due to climate change risks?,8,don't know
+q21,Q21. How concerned are you that home insurance will become more expensive due to climate change risks?,9,prefer not to answer
+q22,Q22. How concerned are you about Californians being unable to obtain home insurance due to climate change risks?,1,very concerned
+q22,Q22. How concerned are you about Californians being unable to obtain home insurance due to climate change risks?,2,somewhat concerned
+q22,Q22. How concerned are you about Californians being unable to obtain home insurance due to climate change risks?,3,not too concerned
+q22,Q22. How concerned are you about Californians being unable to obtain home insurance due to climate change risks?,4,not at all concerned
+q22,Q22. How concerned are you about Californians being unable to obtain home insurance due to climate change risks?,8,don't know
+q22,Q22. How concerned are you about Californians being unable to obtain home insurance due to climate change risks?,9,prefer not to answer
+q22a,"Q22a. On another topic, which of the following statements reflects your view of when the effects of climate change will begin to happen?",1,They have already begun to happen
+q22a,"Q22a. On another topic, which of the following statements reflects your view of when the effects of climate change will begin to happen?",2,They will start happening within a few years
+q22a,"Q22a. On another topic, which of the following statements reflects your view of when the effects of climate change will begin to happen?",3,They will start happening within your lifetime
+q22a,"Q22a. On another topic, which of the following statements reflects your view of when the effects of climate change will begin to happen?",4,"They will not happen within your lifetime, but they will affect future generations"
+q22a,"Q22a. On another topic, which of the following statements reflects your view of when the effects of climate change will begin to happen?",5,They will never happen
+q22a,"Q22a. On another topic, which of the following statements reflects your view of when the effects of climate change will begin to happen?",8,Don’t know
+q22a,"Q22a. On another topic, which of the following statements reflects your view of when the effects of climate change will begin to happen?",9,Prefer not to answer
+q23,Q23. How serious of a threat is climate change to the economy and quality of life for California’s future?,1,very serious
+q23,Q23. How serious of a threat is climate change to the economy and quality of life for California’s future?,2,somewhat serious
+q23,Q23. How serious of a threat is climate change to the economy and quality of life for California’s future?,3,not too serious
+q23,Q23. How serious of a threat is climate change to the economy and quality of life for California’s future?,4,not at all serious
+q23,Q23. How serious of a threat is climate change to the economy and quality of life for California’s future?,8,don’t know
+q23,Q23. How serious of a threat is climate change to the economy and quality of life for California’s future?,9,prefer not to answer
+q24,Q24. How worried are you about global climate change?,1,a great deal
+q24,Q24. How worried are you about global climate change?,2,a fair amount
+q24,Q24. How worried are you about global climate change?,3,only a little
+q24,Q24. How worried are you about global climate change?,4,not at all
+q24,Q24. How worried are you about global climate change?,8,don’t know
+q24,Q24. How worried are you about global climate change?,9,prefer not to answer
+q25,"Q25. Have you ever considered moving to a different home to avoid the impacts of global warming, such as sea-level rise, flooding, heat waves, or wildfires?",1,yes
+q25,"Q25. Have you ever considered moving to a different home to avoid the impacts of global warming, such as sea-level rise, flooding, heat waves, or wildfires?",2,no
+q25,"Q25. Have you ever considered moving to a different home to avoid the impacts of global warming, such as sea-level rise, flooding, heat waves, or wildfires?",8,don't know
+q25,"Q25. Have you ever considered moving to a different home to avoid the impacts of global warming, such as sea-level rise, flooding, heat waves, or wildfires?",9,prefer not to answer
+q26,"Q26. Do you think that climate change is a more serious threat in lower-income communities than other communities in your part of California, or not?",1,yes
+q26,"Q26. Do you think that climate change is a more serious threat in lower-income communities than other communities in your part of California, or not?",2,no
+q26,"Q26. Do you think that climate change is a more serious threat in lower-income communities than other communities in your part of California, or not?",8,don’t know
+q26,"Q26. Do you think that climate change is a more serious threat in lower-income communities than other communities in your part of California, or not?",9,prefer not to answer
+q27,"Q27. Do you think that climate change is a more serious threat to communities of color than other communities in your part of California, or not?",1,yes
+q27,"Q27. Do you think that climate change is a more serious threat to communities of color than other communities in your part of California, or not?",2,no
+q27,"Q27. Do you think that climate change is a more serious threat to communities of color than other communities in your part of California, or not?",8,don’t know
+q27,"Q27. Do you think that climate change is a more serious threat to communities of color than other communities in your part of California, or not?",9,prefer not to answer
+q28,Q28. How about heat waves that are more severe? Are you…?,1,very concerned 	
+q28,Q28. How about heat waves that are more severe? Are you…?,2,somewhat concerned
+q28,Q28. How about heat waves that are more severe? Are you…?,3,not too concerned
+q28,Q28. How about heat waves that are more severe? Are you…?,4,not at all concerned
+q28,Q28. How about heat waves that are more severe? Are you…?,8,don't know
+q28,Q28. How about heat waves that are more severe? Are you…?,9,prefer not to answer
+q29,Q29. How about droughts that are more severe? Are you…?,1,very concerned 	
+q29,Q29. How about droughts that are more severe? Are you…?,2,somewhat concerned
+q29,Q29. How about droughts that are more severe? Are you…?,3,not too concerned
+q29,Q29. How about droughts that are more severe? Are you…?,4,not at all concerned
+q29,Q29. How about droughts that are more severe? Are you…?,8,don't know
+q29,Q29. How about droughts that are more severe? Are you…?,9,prefer not to answer
+q30,Q30. How about wildfires that are more severe? Are you…?,1,very concerned 	
+q30,Q30. How about wildfires that are more severe? Are you…?,2,somewhat concerned
+q30,Q30. How about wildfires that are more severe? Are you…?,3,not too concerned
+q30,Q30. How about wildfires that are more severe? Are you…?,4,not at all concerned
+q30,Q30. How about wildfires that are more severe? Are you…?,8,don't know
+q30,Q30. How about wildfires that are more severe? Are you…?,9,prefer not to answer
+q30a,"Q30a. Next, to address climate change, do you favor or oppose the state law that requires California to reduce its greenhouse gas emissions to 40 percent below 1990 levels by the year 2030?",1,favor
+q30a,"Q30a. Next, to address climate change, do you favor or oppose the state law that requires California to reduce its greenhouse gas emissions to 40 percent below 1990 levels by the year 2030?",2,oppose
+q30a,"Q30a. Next, to address climate change, do you favor or oppose the state law that requires California to reduce its greenhouse gas emissions to 40 percent below 1990 levels by the year 2030?",8,don't know
+q30a,"Q30a. Next, to address climate change, do you favor or oppose the state law that requires California to reduce its greenhouse gas emissions to 40 percent below 1990 levels by the year 2030?",9,prefer not to answer
+q31,Q31. Do you favor or oppose the state law that requires 100 percent of the state’s electricity to come from renewable energy sources by the year 2045?,1,favor
+q31,Q31. Do you favor or oppose the state law that requires 100 percent of the state’s electricity to come from renewable energy sources by the year 2045?,2,oppose
+q31,Q31. Do you favor or oppose the state law that requires 100 percent of the state’s electricity to come from renewable energy sources by the year 2045?,8,don't know
+q31,Q31. Do you favor or oppose the state law that requires 100 percent of the state’s electricity to come from renewable energy sources by the year 2045?,9,prefer not to answer
+q32,Q32. Do you favor or oppose the state banning the sale of all new diesel-powered heavy-duty and medium-duty trucks in California by 2036?,1,favor
+q32,Q32. Do you favor or oppose the state banning the sale of all new diesel-powered heavy-duty and medium-duty trucks in California by 2036?,2,oppose
+q32,Q32. Do you favor or oppose the state banning the sale of all new diesel-powered heavy-duty and medium-duty trucks in California by 2036?,8,don't know
+q32,Q32. Do you favor or oppose the state banning the sale of all new diesel-powered heavy-duty and medium-duty trucks in California by 2036?,9,prefer not to answer
+q33,Q33. Do you favor or oppose Governor Newsom’s executive order banning the sale of all new gasoline-powered vehicles by 2035?,1,favor
+q33,Q33. Do you favor or oppose Governor Newsom’s executive order banning the sale of all new gasoline-powered vehicles by 2035?,2,oppose
+q33,Q33. Do you favor or oppose Governor Newsom’s executive order banning the sale of all new gasoline-powered vehicles by 2035?,8,don't know
+q33,Q33. Do you favor or oppose Governor Newsom’s executive order banning the sale of all new gasoline-powered vehicles by 2035?,9,prefer not to answer
+q34,"Q34. Do you favor or oppose the state setting a goal to achieve net zero greenhouse gas emissions as soon as possible, but no later than 2045?",1,favor
+q34,"Q34. Do you favor or oppose the state setting a goal to achieve net zero greenhouse gas emissions as soon as possible, but no later than 2045?",2,oppose
+q34,"Q34. Do you favor or oppose the state setting a goal to achieve net zero greenhouse gas emissions as soon as possible, but no later than 2045?",8,don't know
+q34,"Q34. Do you favor or oppose the state setting a goal to achieve net zero greenhouse gas emissions as soon as possible, but no later than 2045?",9,prefer not to answer
+q35,"Q35. Do you think that California is ready and prepared to meet the state goals for reducing greenhouse gas emissions, or not?",1,yes
+q35,"Q35. Do you think that California is ready and prepared to meet the state goals for reducing greenhouse gas emissions, or not?",2,no
+q35,"Q35. Do you think that California is ready and prepared to meet the state goals for reducing greenhouse gas emissions, or not?",8,don't know
+q35,"Q35. Do you think that California is ready and prepared to meet the state goals for reducing greenhouse gas emissions, or not?",9,prefer not to answer
+q36,"Q36. Do you think that California’s renewable energy plans will produce a reliable and adequate electricity supply, or not?",1,yes
+q36,"Q36. Do you think that California’s renewable energy plans will produce a reliable and adequate electricity supply, or not?",2,no
+q36,"Q36. Do you think that California’s renewable energy plans will produce a reliable and adequate electricity supply, or not?",8,don't know
+q36,"Q36. Do you think that California’s renewable energy plans will produce a reliable and adequate electricity supply, or not?",9,prefer not to answer
+q37,"Q37. Next, is the current price of gasoline at the pump a major problem, minor problem, or not a problem for you?",1,major problem
+q37,"Q37. Next, is the current price of gasoline at the pump a major problem, minor problem, or not a problem for you?",2,minor problem
+q37,"Q37. Next, is the current price of gasoline at the pump a major problem, minor problem, or not a problem for you?",3,not a problem
+q37,"Q37. Next, is the current price of gasoline at the pump a major problem, minor problem, or not a problem for you?",8,don't know
+q37,"Q37. Next, is the current price of gasoline at the pump a major problem, minor problem, or not a problem for you?",9,prefer not to answer
+q38,"Q38. Is the rising cost of natural gas and electric utility bills a major problem, minor problem, or not a problem for you?",1,major problem
+q38,"Q38. Is the rising cost of natural gas and electric utility bills a major problem, minor problem, or not a problem for you?",2,minor problem
+q38,"Q38. Is the rising cost of natural gas and electric utility bills a major problem, minor problem, or not a problem for you?",3,not a problem
+q38,"Q38. Is the rising cost of natural gas and electric utility bills a major problem, minor problem, or not a problem for you?",4,don't know
+q38,"Q38. Is the rising cost of natural gas and electric utility bills a major problem, minor problem, or not a problem for you?",5,prefer not to answer
+q39,"Q39. How much of a problem is the cost of energy, such as gasoline, natural gas, and electric utility bills in your part of California today?",1,big problem
+q39,"Q39. How much of a problem is the cost of energy, such as gasoline, natural gas, and electric utility bills in your part of California today?",2,somewhat of a problem
+q39,"Q39. How much of a problem is the cost of energy, such as gasoline, natural gas, and electric utility bills in your part of California today?",3,not a problem
+q39,"Q39. How much of a problem is the cost of energy, such as gasoline, natural gas, and electric utility bills in your part of California today?",4,don't know
+q39,"Q39. How much of a problem is the cost of energy, such as gasoline, natural gas, and electric utility bills in your part of California today?",5,prefer not to answer
+q40,"Q40. Do you think that energy prices for gasoline, natural gas, and electric utility bills will hurt the California economy in the future or not?",1,"Yes, a great deal"
+q40,"Q40. Do you think that energy prices for gasoline, natural gas, and electric utility bills will hurt the California economy in the future or not?",2,"Yes, only somewhat"
+q40,"Q40. Do you think that energy prices for gasoline, natural gas, and electric utility bills will hurt the California economy in the future or not?",3,"Yes, other"
+q40,"Q40. Do you think that energy prices for gasoline, natural gas, and electric utility bills will hurt the California economy in the future or not?",4,No
+q40,"Q40. Do you think that energy prices for gasoline, natural gas, and electric utility bills will hurt the California economy in the future or not?",8,Don't know
+q40,"Q40. Do you think that energy prices for gasoline, natural gas, and electric utility bills will hurt the California economy in the future or not?",9,Refuse
+q41,"Q41. In order to help reduce climate change, would you be willing or not willing to pay more for electricity if it were generated by renewable sources like solar or wind energy?",1,willing
+q41,"Q41. In order to help reduce climate change, would you be willing or not willing to pay more for electricity if it were generated by renewable sources like solar or wind energy?",2,not willing
+q41,"Q41. In order to help reduce climate change, would you be willing or not willing to pay more for electricity if it were generated by renewable sources like solar or wind energy?",8,don't know
+q41,"Q41. In order to help reduce climate change, would you be willing or not willing to pay more for electricity if it were generated by renewable sources like solar or wind energy?",9,prefer not to answer
+q42,"Q42. Would you say that you have or have not seriously considered getting an electric vehicle the next time you buy or lease a vehicle, or do you already have one?",1,have considered
+q42,"Q42. Would you say that you have or have not seriously considered getting an electric vehicle the next time you buy or lease a vehicle, or do you already have one?",2,have not considered
+q42,"Q42. Would you say that you have or have not seriously considered getting an electric vehicle the next time you buy or lease a vehicle, or do you already have one?",3,already have one
+q42,"Q42. Would you say that you have or have not seriously considered getting an electric vehicle the next time you buy or lease a vehicle, or do you already have one?",4,don’t drive/don’t have a car/won’t be buying another vehicle
+q42,"Q42. Would you say that you have or have not seriously considered getting an electric vehicle the next time you buy or lease a vehicle, or do you already have one?",8,don’t know
+q42,"Q42. Would you say that you have or have not seriously considered getting an electric vehicle the next time you buy or lease a vehicle, or do you already have one?",9,prefer not to answer
+q44,"Q44. In the system called “cap-and-trade” recently renamed “cap-and-invest,” the California state government issues permits limiting the amount of greenhouse gases companies can put out. Companies that do not use all their permits can sell them to other co",1,favor
+q44,"Q44. In the system called “cap-and-trade” recently renamed “cap-and-invest,” the California state government issues permits limiting the amount of greenhouse gases companies can put out. Companies that do not use all their permits can sell them to other co",2,oppose
+q44,"Q44. In the system called “cap-and-trade” recently renamed “cap-and-invest,” the California state government issues permits limiting the amount of greenhouse gases companies can put out. Companies that do not use all their permits can sell them to other co",8,don't know
+q44,"Q44. In the system called “cap-and-trade” recently renamed “cap-and-invest,” the California state government issues permits limiting the amount of greenhouse gases companies can put out. Companies that do not use all their permits can sell them to other co",9,prefer not to answer
+q45,Q45. How important is it to you that some of the cap-and-invest revenues are spent on projects to improve environmental conditions in lower-income and disadvantaged communities?,1,very important
+q45,Q45. How important is it to you that some of the cap-and-invest revenues are spent on projects to improve environmental conditions in lower-income and disadvantaged communities?,2,somewhat important
+q45,Q45. How important is it to you that some of the cap-and-invest revenues are spent on projects to improve environmental conditions in lower-income and disadvantaged communities?,3,not too important
+q45,Q45. How important is it to you that some of the cap-and-invest revenues are spent on projects to improve environmental conditions in lower-income and disadvantaged communities?,4,not at all important
+q45,Q45. How important is it to you that some of the cap-and-invest revenues are spent on projects to improve environmental conditions in lower-income and disadvantaged communities?,8,don't know
+q45,Q45. How important is it to you that some of the cap-and-invest revenues are spent on projects to improve environmental conditions in lower-income and disadvantaged communities?,9,prefer not to answer
+q46,"Q46. Next, do you think that California doing things to reduce climate change in the future would cause there to be...?",1,more jobs
+q46,"Q46. Next, do you think that California doing things to reduce climate change in the future would cause there to be...?",2,fewer jobs
+q46,"Q46. Next, do you think that California doing things to reduce climate change in the future would cause there to be...?",3,wouldn’t affect the number of jobs
+q46,"Q46. Next, do you think that California doing things to reduce climate change in the future would cause there to be...?",8,don't know
+q46,"Q46. Next, do you think that California doing things to reduce climate change in the future would cause there to be...?",9,prefer not to answer
+q47,Q47. Do you think that California doing things to reduce climate change in the future would cause gasoline prices at the pump around the state too...?,1,increase gas prices
+q47,Q47. Do you think that California doing things to reduce climate change in the future would cause gasoline prices at the pump around the state too...?,2,decrease gas prices
+q47,Q47. Do you think that California doing things to reduce climate change in the future would cause gasoline prices at the pump around the state too...?,3,wouldn’t affect gas prices
+q47,Q47. Do you think that California doing things to reduce climate change in the future would cause gasoline prices at the pump around the state too...?,8,don't know
+q47,Q47. Do you think that California doing things to reduce climate change in the future would cause gasoline prices at the pump around the state too...?,9,prefer not to answer
+q48,"Q48. Do you favor or oppose the California state government making its own policies, separate from the federal government, to address the issue of climate change?",1,favor
+q48,"Q48. Do you favor or oppose the California state government making its own policies, separate from the federal government, to address the issue of climate change?",2,oppose
+q48,"Q48. Do you favor or oppose the California state government making its own policies, separate from the federal government, to address the issue of climate change?",8,don't know
+q48,"Q48. Do you favor or oppose the California state government making its own policies, separate from the federal government, to address the issue of climate change?",9,prefer not to answer
+q49,"Q49. When it comes to efforts to fight climate change, how important is it to you that California acts as a leader around the world—very important, somewhat important, not too important, or not important at all?",1,very important
+q49,"Q49. When it comes to efforts to fight climate change, how important is it to you that California acts as a leader around the world—very important, somewhat important, not too important, or not important at all?",2,somewhat important
+q49,"Q49. When it comes to efforts to fight climate change, how important is it to you that California acts as a leader around the world—very important, somewhat important, not too important, or not important at all?",3,not too important
+q49,"Q49. When it comes to efforts to fight climate change, how important is it to you that California acts as a leader around the world—very important, somewhat important, not too important, or not important at all?",4,not at all important
+q49,"Q49. When it comes to efforts to fight climate change, how important is it to you that California acts as a leader around the world—very important, somewhat important, not too important, or not important at all?",8,don't know
+q49,"Q49. When it comes to efforts to fight climate change, how important is it to you that California acts as a leader around the world—very important, somewhat important, not too important, or not important at all?",9,prefer not to answer
+q50,Q50. How important is the condition of oceans and beaches to the economy and quality of life for California’s future?,1,very important
+q50,Q50. How important is the condition of oceans and beaches to the economy and quality of life for California’s future?,2,somewhat important
+q50,Q50. How important is the condition of oceans and beaches to the economy and quality of life for California’s future?,3,not too important
+q50,Q50. How important is the condition of oceans and beaches to the economy and quality of life for California’s future?,4,not at all important
+q50,Q50. How important is the condition of oceans and beaches to the economy and quality of life for California’s future?,8,don't know
+q50,Q50. How important is the condition of oceans and beaches to the economy and quality of life for California’s future?,9,prefer not to answer
+q51,"Q51. Do you think that ocean and beach pollution along the California coast is a big problem, somewhat of a problem, or not a problem in California today?",1,big problem
+q51,"Q51. Do you think that ocean and beach pollution along the California coast is a big problem, somewhat of a problem, or not a problem in California today?",2,somewhat of a problem
+q51,"Q51. Do you think that ocean and beach pollution along the California coast is a big problem, somewhat of a problem, or not a problem in California today?",3,not a problem
+q51,"Q51. Do you think that ocean and beach pollution along the California coast is a big problem, somewhat of a problem, or not a problem in California today?",8,don't know
+q51,"Q51. Do you think that ocean and beach pollution along the California coast is a big problem, somewhat of a problem, or not a problem in California today?",9,prefer not to answer
+q52,Q52. How concerned are you about rising sea levels having an impact on flooding and beach erosion?,1,very concerned
+q52,Q52. How concerned are you about rising sea levels having an impact on flooding and beach erosion?,2,somewhat concerned
+q52,Q52. How concerned are you about rising sea levels having an impact on flooding and beach erosion?,3,not too concerned
+q52,Q52. How concerned are you about rising sea levels having an impact on flooding and beach erosion?,4,not at all concerned
+q52,Q52. How concerned are you about rising sea levels having an impact on flooding and beach erosion?,8,don’t know
+q52,Q52. How concerned are you about rising sea levels having an impact on flooding and beach erosion?,9,prefer not to answer
+q53,Q53. How concerned are you about ocean warming having an impact on marine and coastal life?,1,very concerned
+q53,Q53. How concerned are you about ocean warming having an impact on marine and coastal life?,2,somewhat concerned
+q53,Q53. How concerned are you about ocean warming having an impact on marine and coastal life?,3,not too concerned
+q53,Q53. How concerned are you about ocean warming having an impact on marine and coastal life?,4,not at all concerned
+q53,Q53. How concerned are you about ocean warming having an impact on marine and coastal life?,8,don’t know
+q53,Q53. How concerned are you about ocean warming having an impact on marine and coastal life?,9,prefer not to answer
+q54,"Q54. How about plastics and marine debris? Do you think this is a big problem, somewhat of a problem, or not a problem in the part of the California coast that is closest to you?",1, big problem
+q54,"Q54. How about plastics and marine debris? Do you think this is a big problem, somewhat of a problem, or not a problem in the part of the California coast that is closest to you?",2, somewhat of a problem
+q54,"Q54. How about plastics and marine debris? Do you think this is a big problem, somewhat of a problem, or not a problem in the part of the California coast that is closest to you?",3, not a problem
+q54,"Q54. How about plastics and marine debris? Do you think this is a big problem, somewhat of a problem, or not a problem in the part of the California coast that is closest to you?",8,don’t know
+q54,"Q54. How about plastics and marine debris? Do you think this is a big problem, somewhat of a problem, or not a problem in the part of the California coast that is closest to you?",9,prefer not to answer
+q55,"Q55. How about declining marine life? Do you think this is a big problem, somewhat of a problem, or not a problem in the part of the California coast that is closest to you?",1, big problem
+q55,"Q55. How about declining marine life? Do you think this is a big problem, somewhat of a problem, or not a problem in the part of the California coast that is closest to you?",2, somewhat of a problem
+q55,"Q55. How about declining marine life? Do you think this is a big problem, somewhat of a problem, or not a problem in the part of the California coast that is closest to you?",3, not a problem
+q55,"Q55. How about declining marine life? Do you think this is a big problem, somewhat of a problem, or not a problem in the part of the California coast that is closest to you?",8,don’t know
+q55,"Q55. How about declining marine life? Do you think this is a big problem, somewhat of a problem, or not a problem in the part of the California coast that is closest to you?",9,prefer not to answer
+q56,"Q56. How about overfishing, or depleting the fishing stock by fishing? Do you think this is a big problem, somewhat of a problem, or not a problem in the part of the California coast that is closest to you?",1, big problem
+q56,"Q56. How about overfishing, or depleting the fishing stock by fishing? Do you think this is a big problem, somewhat of a problem, or not a problem in the part of the California coast that is closest to you?",2, somewhat of a problem
+q56,"Q56. How about overfishing, or depleting the fishing stock by fishing? Do you think this is a big problem, somewhat of a problem, or not a problem in the part of the California coast that is closest to you?",3, not a problem
+q56,"Q56. How about overfishing, or depleting the fishing stock by fishing? Do you think this is a big problem, somewhat of a problem, or not a problem in the part of the California coast that is closest to you?",8,don’t know
+q56,"Q56. How about overfishing, or depleting the fishing stock by fishing? Do you think this is a big problem, somewhat of a problem, or not a problem in the part of the California coast that is closest to you?",9,prefer not to answer
+q57,"Q57.Marine Protected Areas, or MPAs, are managed by the California State Fish and Game Commission to protect fish, wildlife, and their habitat in coastal waters. Do you think it is very important, somewhat important, not too important, or not important at",1,very important
+q57,"Q57.Marine Protected Areas, or MPAs, are managed by the California State Fish and Game Commission to protect fish, wildlife, and their habitat in coastal waters. Do you think it is very important, somewhat important, not too important, or not important at",2,somewhat important
+q57,"Q57.Marine Protected Areas, or MPAs, are managed by the California State Fish and Game Commission to protect fish, wildlife, and their habitat in coastal waters. Do you think it is very important, somewhat important, not too important, or not important at",3,not too important
+q57,"Q57.Marine Protected Areas, or MPAs, are managed by the California State Fish and Game Commission to protect fish, wildlife, and their habitat in coastal waters. Do you think it is very important, somewhat important, not too important, or not important at",4,not at all important
+q57,"Q57.Marine Protected Areas, or MPAs, are managed by the California State Fish and Game Commission to protect fish, wildlife, and their habitat in coastal waters. Do you think it is very important, somewhat important, not too important, or not important at",8,don't know
+q57,"Q57.Marine Protected Areas, or MPAs, are managed by the California State Fish and Game Commission to protect fish, wildlife, and their habitat in coastal waters. Do you think it is very important, somewhat important, not too important, or not important at",9,prefer not to answer
+q58,Q58. How about allowing more oil drilling off the California coast? Do you favor or oppose this proposal?,1,favor
+q58,Q58. How about allowing more oil drilling off the California coast? Do you favor or oppose this proposal?,2,oppose
+q58,Q58. How about allowing more oil drilling off the California coast? Do you favor or oppose this proposal?,8,don’t know
+q58,Q58. How about allowing more oil drilling off the California coast? Do you favor or oppose this proposal?,9,prefer not to answer
+q59,Q59. How about allowing wind power and wave energy projects off the California coast? Do you favor or oppose this proposal?,1,favor
+q59,Q59. How about allowing wind power and wave energy projects off the California coast? Do you favor or oppose this proposal?,2,oppose
+q59,Q59. How about allowing wind power and wave energy projects off the California coast? Do you favor or oppose this proposal?,8,don’t know
+q59,Q59. How about allowing wind power and wave energy projects off the California coast? Do you favor or oppose this proposal?,9,prefer not to answer
+q60,Q60. How about building more solar power stations in California? Do you favor or oppose this proposal?,1,favor
+q60,Q60. How about building more solar power stations in California? Do you favor or oppose this proposal?,2,oppose
+q60,Q60. How about building more solar power stations in California? Do you favor or oppose this proposal?,8,don’t know
+q60,Q60. How about building more solar power stations in California? Do you favor or oppose this proposal?,9,prefer not to answer
+q61,Q61. How about building more nuclear power plants in California? Do you favor or oppose this proposal?,1,favor
+q61,Q61. How about building more nuclear power plants in California? Do you favor or oppose this proposal?,2,oppose
+q61,Q61. How about building more nuclear power plants in California? Do you favor or oppose this proposal?,8,don’t know
+q61,Q61. How about building more nuclear power plants in California? Do you favor or oppose this proposal?,9,prefer not to answer
+q62,Q62. Do you approve or disapprove of the way that President Trump is handling environmental issues in the United States?,1,approve
+q62,Q62. Do you approve or disapprove of the way that President Trump is handling environmental issues in the United States?,2,disapprove
+q62,Q62. Do you approve or disapprove of the way that President Trump is handling environmental issues in the United States?,8,don't know
+q62,Q62. Do you approve or disapprove of the way that President Trump is handling environmental issues in the United States?,9,prefer not to answer
+q63,Q63. Do you approve or disapprove of the way the U.S. Congress is handling environmental issues in the United States?,1,approve
+q63,Q63. Do you approve or disapprove of the way the U.S. Congress is handling environmental issues in the United States?,2,disapprove
+q63,Q63. Do you approve or disapprove of the way the U.S. Congress is handling environmental issues in the United States?,8,don't know
+q63,Q63. Do you approve or disapprove of the way the U.S. Congress is handling environmental issues in the United States?,9,prefer not to answer
+q64,Q64. How much of the time can you trust the federal government to do what is right when it comes to handling environmental issues in the United States?,1,just about always
+q64,Q64. How much of the time can you trust the federal government to do what is right when it comes to handling environmental issues in the United States?,2,most of the time
+q64,Q64. How much of the time can you trust the federal government to do what is right when it comes to handling environmental issues in the United States?,3,only some of the time
+q64,Q64. How much of the time can you trust the federal government to do what is right when it comes to handling environmental issues in the United States?,4,never
+q64,Q64. How much of the time can you trust the federal government to do what is right when it comes to handling environmental issues in the United States?,8,don't know
+q64,Q64. How much of the time can you trust the federal government to do what is right when it comes to handling environmental issues in the United States?,9,prefer not to answer
+q65,Q65. With which one of these statements about the environment and the economy in the US do you most agree?,1,"protection of the environment should be given priority, even at the risk of curbing economic growth"
+q65,Q65. With which one of these statements about the environment and the economy in the US do you most agree?,2,"economic growth should be given priority, even if the environment suffers to some extent"
+q65,Q65. With which one of these statements about the environment and the economy in the US do you most agree?,8,don't know
+q65,Q65. With which one of these statements about the environment and the economy in the US do you most agree?,9,prefer not to answer
+q66,"Q66. Right now, which ONE of the following do you think should be the more important priority for addressing America’s energy supply:",1,"developing alternative energy sources such as wind, solar, and hydrogen technology"
+q66,"Q66. Right now, which ONE of the following do you think should be the more important priority for addressing America’s energy supply:",2,"expanding exploration and production of oil, coal, and natural gas"
+q66,"Q66. Right now, which ONE of the following do you think should be the more important priority for addressing America’s energy supply:",3,both
+q66,"Q66. Right now, which ONE of the following do you think should be the more important priority for addressing America’s energy supply:",8,don't know
+q66,"Q66. Right now, which ONE of the following do you think should be the more important priority for addressing America’s energy supply:",9,prefer not to answer
+q67,"Q67. Next, do you think that global climate change is a major threat, a minor threat or not a threat to the well-being of the United States?",1,major threat
+q67,"Q67. Next, do you think that global climate change is a major threat, a minor threat or not a threat to the well-being of the United States?",2,minor threat
+q67,"Q67. Next, do you think that global climate change is a major threat, a minor threat or not a threat to the well-being of the United States?",3,not a threat
+q67,"Q67. Next, do you think that global climate change is a major threat, a minor threat or not a threat to the well-being of the United States?",8,don't know
+q67,"Q67. Next, do you think that global climate change is a major threat, a minor threat or not a threat to the well-being of the United States?",9,prefer not to answer
+q68,"Q68. Do you think the federal government is doing more than enough, just enough, or not enough to address climate change?",1,more than enough
+q68,"Q68. Do you think the federal government is doing more than enough, just enough, or not enough to address climate change?",2,just enough
+q68,"Q68. Do you think the federal government is doing more than enough, just enough, or not enough to address climate change?",3,not enough
+q68,"Q68. Do you think the federal government is doing more than enough, just enough, or not enough to address climate change?",8,don't know
+q68,"Q68. Do you think the federal government is doing more than enough, just enough, or not enough to address climate change?",9,prefer not to answer
+q69,Q69. Do you support or oppose the US participating in international efforts to help reduce the effects of global climate change?,1,strongly support
+q69,Q69. Do you support or oppose the US participating in international efforts to help reduce the effects of global climate change?,2,somewhat support
+q69,Q69. Do you support or oppose the US participating in international efforts to help reduce the effects of global climate change?,3,somewhat oppose
+q69,Q69. Do you support or oppose the US participating in international efforts to help reduce the effects of global climate change?,4,strongly oppose
+q69,Q69. Do you support or oppose the US participating in international efforts to help reduce the effects of global climate change?,8,don't know
+q69,Q69. Do you support or oppose the US participating in international efforts to help reduce the effects of global climate change?,9,prefer not to answer
+q70,Q70. Some people are registered to vote and others are not. Are you absolutely certain that you are registered to vote in California?,1,yes
+q70,Q70. Some people are registered to vote and others are not. Are you absolutely certain that you are registered to vote in California?,2,no
+q70,Q70. Some people are registered to vote and others are not. Are you absolutely certain that you are registered to vote in California?,8,don't know
+q70,Q70. Some people are registered to vote and others are not. Are you absolutely certain that you are registered to vote in California?,9,prefer not to answer
+q70a,"Are you registered as a Democrat, a Republican, another party, or are you registered as a decline-to-state or independent voter?  We understand and respect that this information is confidential, we ask only for nonpartisan research purposes and will keep all of this information absolutely anonymous. - Selected Choice",1,Democrat
+q70a,"Are you registered as a Democrat, a Republican, another party, or are you registered as a decline-to-state or independent voter?  We understand and respect that this information is confidential, we ask only for nonpartisan research purposes and will keep all of this information absolutely anonymous. - Selected Choice",2,Republican
+q70a,"Are you registered as a Democrat, a Republican, another party, or are you registered as a decline-to-state or independent voter?  We understand and respect that this information is confidential, we ask only for nonpartisan research purposes and will keep all of this information absolutely anonymous. - Selected Choice",3,Another party [SPECIFY]
+q70a,"Are you registered as a Democrat, a Republican, another party, or are you registered as a decline-to-state or independent voter?  We understand and respect that this information is confidential, we ask only for nonpartisan research purposes and will keep all of this information absolutely anonymous. - Selected Choice",4,Decline-to-state/independent
+q70a,"Are you registered as a Democrat, a Republican, another party, or are you registered as a decline-to-state or independent voter?  We understand and respect that this information is confidential, we ask only for nonpartisan research purposes and will keep all of this information absolutely anonymous. - Selected Choice",8,Don't know
+q70a,"Are you registered as a Democrat, a Republican, another party, or are you registered as a decline-to-state or independent voter?  We understand and respect that this information is confidential, we ask only for nonpartisan research purposes and will keep all of this information absolutely anonymous. - Selected Choice",9,Prefer not to answer
+q71,Q71 Would you call yourself a strong Democrat or not a very strong Democrat?,1,strong
+q71,Q71 Would you call yourself a strong Democrat or not a very strong Democrat?,2,not very strong
+q71,Q71 Would you call yourself a strong Democrat or not a very strong Democrat?,8,don't know
+q71,Q71 Would you call yourself a strong Democrat or not a very strong Democrat?,9,prefer not to answer
+q71a,Q71a. Would you call yourself a strong Republican or not a very strong Republican?,1,strong
+q71a,Q71a. Would you call yourself a strong Republican or not a very strong Republican?,2,not very strong
+q71a,Q71a. Would you call yourself a strong Republican or not a very strong Republican?,8,don't know
+q71a,Q71a. Would you call yourself a strong Republican or not a very strong Republican?,9,prefer not to answer
+q71b,Q71b. Do you think of yourself as closer to the Republican Party or Democratic Party?,1,Republican Party
+q71b,Q71b. Do you think of yourself as closer to the Republican Party or Democratic Party?,2,Democratic Party
+q71b,Q71b. Do you think of yourself as closer to the Republican Party or Democratic Party?,3,Neither
+q71b,Q71b. Do you think of yourself as closer to the Republican Party or Democratic Party?,8,Don't know
+q71b,Q71b. Do you think of yourself as closer to the Republican Party or Democratic Party?,9,Prefer not to answer
+q72,"Q72. In  general, do you think it is a good thing or a bad thing that a majority of voters can make laws and change public policies about environmental issues in California by passing ballot measures?",1,good thing
+q72,"Q72. In  general, do you think it is a good thing or a bad thing that a majority of voters can make laws and change public policies about environmental issues in California by passing ballot measures?",2,bad thing
+q72,"Q72. In  general, do you think it is a good thing or a bad thing that a majority of voters can make laws and change public policies about environmental issues in California by passing ballot measures?",8,don't know
+q72,"Q72. In  general, do you think it is a good thing or a bad thing that a majority of voters can make laws and change public policies about environmental issues in California by passing ballot measures?",9,prefer not to answer
+q73,Q73. How important is it to you personally to vote on ballot measures that will make laws and change public policies about environmental issues in California?,1,very important
+q73,Q73. How important is it to you personally to vote on ballot measures that will make laws and change public policies about environmental issues in California?,2,somewhat important
+q73,Q73. How important is it to you personally to vote on ballot measures that will make laws and change public policies about environmental issues in California?,3,not too important
+q73,Q73. How important is it to you personally to vote on ballot measures that will make laws and change public policies about environmental issues in California?,8,don't know
+q73,Q73. How important is it to you personally to vote on ballot measures that will make laws and change public policies about environmental issues in California?,9,prefer not to answer
+q74,"Q74. A proposed citizens’ initiative for the November 2026 state ballot requires all K-12 public schools to provide students with thirty hours of education, training, and hands-on learning relating to sustainability of care of the Earth, every two years. I",1,yes
+q74,"Q74. A proposed citizens’ initiative for the November 2026 state ballot requires all K-12 public schools to provide students with thirty hours of education, training, and hands-on learning relating to sustainability of care of the Earth, every two years. I",2,no
+q74,"Q74. A proposed citizens’ initiative for the November 2026 state ballot requires all K-12 public schools to provide students with thirty hours of education, training, and hands-on learning relating to sustainability of care of the Earth, every two years. I",8,don't know
+q74,"Q74. A proposed citizens’ initiative for the November 2026 state ballot requires all K-12 public schools to provide students with thirty hours of education, training, and hands-on learning relating to sustainability of care of the Earth, every two years. I",9,prefer not to answer
+q75,"Q75. How much, if anything, have you heard about the state government program called",1,a lot
+q75,"Q75. How much, if anything, have you heard about the state government program called",2,a little
+q75,"Q75. How much, if anything, have you heard about the state government program called",3,nothing at all
+q75,"Q75. How much, if anything, have you heard about the state government program called",8,don't know
+q75,"Q75. How much, if anything, have you heard about the state government program called",9,prefer not to answer
+q76,"Q76. Do you favor or oppose the “Engaged California” state government program that opens a topic for discussion, invites Californians who expressed interest to join an online group conversation that includes agenda setting, deliberation, and consensus on t",1,favor
+q76,"Q76. Do you favor or oppose the “Engaged California” state government program that opens a topic for discussion, invites Californians who expressed interest to join an online group conversation that includes agenda setting, deliberation, and consensus on t",2,oppose
+q76,"Q76. Do you favor or oppose the “Engaged California” state government program that opens a topic for discussion, invites Californians who expressed interest to join an online group conversation that includes agenda setting, deliberation, and consensus on t",8,don't know
+q76,"Q76. Do you favor or oppose the “Engaged California” state government program that opens a topic for discussion, invites Californians who expressed interest to join an online group conversation that includes agenda setting, deliberation, and consensus on t",9,prefer not to answer
+q77,Q77. Would you be willing or not willing to participate in the “Engaged California” state government program on environmental issues in California?,1,yes
+q77,Q77. Would you be willing or not willing to participate in the “Engaged California” state government program on environmental issues in California?,2,no
+q77,Q77. Would you be willing or not willing to participate in the “Engaged California” state government program on environmental issues in California?,8,don't know
+q77,Q77. Would you be willing or not willing to participate in the “Engaged California” state government program on environmental issues in California?,9,prefer not to answer
+q78,Q78. Would you consider yourself to be politically:,1,very liberal
+q78,Q78. Would you consider yourself to be politically:,2,somewhat liberal
+q78,Q78. Would you consider yourself to be politically:,3,middle-of-the-road
+q78,Q78. Would you consider yourself to be politically:,4,somewhat conservative
+q78,Q78. Would you consider yourself to be politically:,5,very conservative
+q78,Q78. Would you consider yourself to be politically:,8,don't know
+q78,Q78. Would you consider yourself to be politically:,9,prefer not to answer
+q79,"Q79. Generally speaking, how much interest would you say you have in politics?",1,great deal
+q79,"Q79. Generally speaking, how much interest would you say you have in politics?",2,fair amount
+q79,"Q79. Generally speaking, how much interest would you say you have in politics?",3,only a little
+q79,"Q79. Generally speaking, how much interest would you say you have in politics?",4,none
+q79,"Q79. Generally speaking, how much interest would you say you have in politics?",8,don't know
+q79,"Q79. Generally speaking, how much interest would you say you have in politics?",9,prefer not to answer
+q80,Q80. How often would you say you vote?,1,always
+q80,Q80. How often would you say you vote?,2,nearly always
+q80,Q80. How often would you say you vote?,3,part of the time
+q80,Q80. How often would you say you vote?,4,seldom
+q80,Q80. How often would you say you vote?,5,never
+q80,Q80. How often would you say you vote?,8,don't know
+q80,Q80. How often would you say you vote?,9,prefer not to answer
+d1,"Finally, we have a few demographic questions. Please note some questions may be similar to ones you have answered before.
+
+
+
+What is your age?",,
+d1a,D1A. Could you please tell me if you are between the ages of?,1,18 to 24
+d1a,D1A. Could you please tell me if you are between the ages of?,2,25 to 34
+d1a,D1A. Could you please tell me if you are between the ages of?,3,35 to 44
+d1a,D1A. Could you please tell me if you are between the ages of?,4,45 to 54
+d1a,D1A. Could you please tell me if you are between the ages of?,5,55 to 64
+d1a,D1A. Could you please tell me if you are between the ages of?,6,65 or older
+d1a,D1A. Could you please tell me if you are between the ages of?,9,refuse
+d2,Do you own or rent your current residence?,1,own
+d2,Do you own or rent your current residence?,2,rent
+d2,Do you own or rent your current residence?,3,neither
+d2,Do you own or rent your current residence?,8,don't know
+d2,Do you own or rent your current residence?,9,prefer not to answer
+d3,"And how long have you lived at your current address? 
+
+If Under a year please answer as 0.
+
+Years
+[QID65-ChoiceDescription-8]",,
+d3a,"Could you please tell me if you have lived at your current address for fewer than five years, five years to under 10 years, 10 years to under 20 years, or 20 years or more?
+
+[QID65-ChoiceDescription-8]",1,fewer than five years
+d3a,"Could you please tell me if you have lived at your current address for fewer than five years, five years to under 10 years, 10 years to under 20 years, or 20 years or more?
+
+[QID65-ChoiceDescription-8]",2,five years to under 10 years
+d3a,"Could you please tell me if you have lived at your current address for fewer than five years, five years to under 10 years, 10 years to under 20 years, or 20 years or more?
+
+[QID65-ChoiceDescription-8]",3,10 years to under 20 years
+d3a,"Could you please tell me if you have lived at your current address for fewer than five years, five years to under 10 years, 10 years to under 20 years, or 20 years or more?
+
+[QID65-ChoiceDescription-8]",4,20 years or more
+d3a,"Could you please tell me if you have lived at your current address for fewer than five years, five years to under 10 years, 10 years to under 20 years, or 20 years or more?
+
+[QID65-ChoiceDescription-8]",5,all my life
+d3a,"Could you please tell me if you have lived at your current address for fewer than five years, five years to under 10 years, 10 years to under 20 years, or 20 years or more?
+
+[QID65-ChoiceDescription-8]",8,don't know
+d3a,"Could you please tell me if you have lived at your current address for fewer than five years, five years to under 10 years, 10 years to under 20 years, or 20 years or more?
+
+[QID65-ChoiceDescription-8]",9,prefer not to answer
+d5,Work Type,1,full-time employed
+d5,Work Type,2,part-time employed
+d5,Work Type,3,not employed
+d5,Work Type,5,retired
+d5,Work Type,6,disabled/on disability
+d5,Work Type,8,don't know
+d5,Work Type,9,prefer not to answer
+d7,What was the last grade of school that you completed?,1,some high school or less
+d7,What was the last grade of school that you completed?,2,high school graduate/GED
+d7,What was the last grade of school that you completed?,3,some college
+d7,What was the last grade of school that you completed?,4,college graduate
+d7,What was the last grade of school that you completed?,5,post graduate
+d7,What was the last grade of school that you completed?,8,don’t know
+d7,What was the last grade of school that you completed?,9,prefer not to answer
+d8,"D8. Are you of Hispanic, Latino, or Spanish origin?",,
+race,Race/Ethnicity,1,Asian Americans
+race,Race/Ethnicity,2,African Americans
+race,Race/Ethnicity,3,Latinos
+race,Race/Ethnicity,4,Whites
+race,Race/Ethnicity,5,Other
+race,Race/Ethnicity,6,Multi-race
+d9,D9. Were you born in the United States?,1,Yes
+d9,D9. Were you born in the United States?,2,No
+d9a,"Next, 
+
+
+
+
+Are you a U.S. citizen or not?",1,"Yes, U.S. citizen"
+d9a,"Next, 
+
+
+
+
+Are you a U.S. citizen or not?",2,"No, not a U.S. citizen"
+d9a,"Next, 
+
+
+
+
+Are you a U.S. citizen or not?",8,Don't know
+d9a,"Next, 
+
+
+
+
+Are you a U.S. citizen or not?",9,Prefer not to answer
+d11,Income,1,"Under $20,000"
+d11,Income,2,"$20,000 to under $40,000"
+d11,Income,3,"$40,000 to under $60,000"
+d11,Income,4,"$60,000 to under $80,000"
+d11,Income,5,"$80,000 to under $100,000"
+d11,Income,6,"$100,000 to under $200,000"
+d11,Income,7,"$200,000 or more"
+d11,Income,8,Don't know
+d11,Income,9,Prefer not to answer
+d15,"Finally, would you be willing to talk about these questions with a reporter from a news organization in your region for a story about this survey?  If you are willing to be contacted by a reporter, we will need to pass along your name and phone number.  This information would be used by the reporter only to facilitate contacting you.  Would you be willing to be contacted by a reporter, to share more of your opinions?",1,Yes
+d15,"Finally, would you be willing to talk about these questions with a reporter from a news organization in your region for a story about this survey?  If you are willing to be contacted by a reporter, we will need to pass along your name and phone number.  This information would be used by the reporter only to facilitate contacting you.  Would you be willing to be contacted by a reporter, to share more of your opinions?",2,No
+d15,"Finally, would you be willing to talk about these questions with a reporter from a news organization in your region for a story about this survey?  If you are willing to be contacted by a reporter, we will need to pass along your name and phone number.  This information would be used by the reporter only to facilitate contacting you.  Would you be willing to be contacted by a reporter, to share more of your opinions?",8,Don’t know
+d15,"Finally, would you be willing to talk about these questions with a reporter from a news organization in your region for a story about this survey?  If you are willing to be contacted by a reporter, we will need to pass along your name and phone number.  This information would be used by the reporter only to facilitate contacting you.  Would you be willing to be contacted by a reporter, to share more of your opinions?",9,Prefer not to answer
+language,Language,0,English
+language,Language,1,Spanish
+gender,Gender,1,Male
+gender,Gender,2,Female
+gender,Gender,8,Don’t know
+gender,Gender,9,Prefer not to answer
+likevote,Likely Voters,0,Respondent not likely to vote
+likevote,Likely Voters,1,Respondent likely to vote
+weight,weight,,
